@@ -11,7 +11,7 @@ Gui application for converting html to pdf.
 ## Usage
 ---
 
-![[2023-01-17_21-37 1.png]]
+![[html2pdf.png]]
 
 ## Features:
 ---
