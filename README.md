@@ -38,7 +38,7 @@ Gui application for converting html to pdf.
 		brew install homebrew/cask/wkhtmltopdf
 		```
 	- Windows:
-			Install the release from [here](http://google.com)
+			Install the release from [here](https://github.com/Ay0ubN0uri/html2pdf/releases/tag/V0.1.0)
 
 **Warning!** Version in debian/ubuntu repos have reduced functionality (because it compiled without the wkhtmltopdf QT patches), such as adding outlines, headers, footers, TOC etc. To use this options you should install static binary from [wkhtmltopdf](http://wkhtmltopdf.org/) site or you can use this [script](https://github.com/JazzCore/python-pdfkit/blob/master/ci/before-script.sh) (written for CI servers with Ubuntu 18.04 Bionic, but it could work on other Ubuntu/Debian versions).
 
