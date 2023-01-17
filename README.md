@@ -11,7 +11,7 @@ Gui application for converting html to pdf.
 ## Usage
 ---
 
-![[html2pdf.png]]
+![html2pdf image](https://github.com/Ay0ubN0uri/html2pdf/blob/master/html2pdf.png)
 
 ## Features:
 ---
